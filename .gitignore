@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Build qovluqları
+dist/
+build/
+
+# Ətraf mühit faylları
+.env
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
